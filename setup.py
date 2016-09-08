@@ -15,7 +15,7 @@ setup(
     license="MIT",
     packages=["gcloud_requests"],
     install_requires=[
-        "gcloud==0.17.0",
+        "gcloud==0.18.1",
         "requests>=2.9.0,<3.0"
     ],
     classifiers=[
