@@ -16,8 +16,7 @@ setup(
     packages=["gcloud_requests"],
     install_requires=[
         "gcloud==0.17.0",
-        "requests>=2.9.0,<3.0",
-        "certifi==2015.09.06.2"
+        "requests>=2.9.0,<3.0"
     ],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
